@@ -1,0 +1,29 @@
+scene:
+background-col = 0.8 0.8 1
+ambient-light=1 1 1
+
+camera:
+eye = 6 0 0
+direction = -1 0 0
+screen-dist = 1.2
+up-direction = 0 1 0
+
+light-point:
+pos = 1 2 -2
+color = 1 1 1
+
+sphere:
+center = 0 0.8 0
+radius = 0.8
+mtl-diffuse = 0.6 0.2 0.2
+mtl-specular = 1 1 1
+mtl-shininess = 100
+
+cylinder:
+start = 0 0 0
+direction = 0 -2 0
+length = 20
+radius = 0.2
+mtl-diffuse = 1 1 1
+mtl-specular = 0.2 0.2 0.2
+mtl-shininess = 40

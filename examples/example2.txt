@@ -1,0 +1,68 @@
+scene:
+background-tex=grass.png
+ambient-light=1 1 1
+super-samp-width=2
+
+camera:
+eye = 0 0 3
+look-at = 0 0 0
+screen-dist = 1
+up-direction = 0 1 0
+
+light-hemisphere:
+color = 1 1 1
+color-ground = 0.28 0.05 0.05
+up-direction = 0 1 1
+
+sphere:
+center = 0 0.5 0
+radius = 0.5
+mtl-diffuse=0.2 0.5 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+mtl-type=checkers
+checkers-size=0.025
+checkers-diffuse1= 0.2 0.5 0.4
+checkers-diffuse2= 0.8 0.5 0.6
+
+sphere:
+center = 0.3 1.1 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+
+sphere:
+center = -0.3 1.1 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+
+sphere:
+center = -0.6 0.55 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+
+sphere:
+center = -0.3 0 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+
+sphere:
+center = 0.3 0 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
+
+sphere:
+center = 0.6 0.55 0
+radius = 0.3
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=50
