@@ -2,9 +2,9 @@
 
 This is a ray tracer implemented in Java. It allows to use a simple pre-defined language to define a scene as a file, and use it as an input to the ray tracer. The ray tracer will recreate the scene and save output image.
 
-![alt text](https://github.com/alexeyza/stackexchange-trends/raw/master/examples/example1.png "Example 1")
+![alt text](https://github.com/alexeyza/raytracer/raw/master/examples/example1.png "Example 1")
 
-![alt text](https://github.com/alexeyza/stackexchange-trends/raw/master/examples/example3_variation.png "Example 2")
+![alt text](https://github.com/alexeyza/raytracer/raw/master/examples/example3_variation.png "Example 2")
 
 ## How to Use
 Follow these steps:
