@@ -9,7 +9,7 @@ This is a ray tracer implemented in Java. It allows to use a simple pre-defined 
 ## How to Use
 Follow these steps:
 
-1. Create a `.txt` file to describe the desired scene (world). For examples of some scene files, check the `/examples` directory.
+1. Create a `.txt` file to describe the desired scene (world). For examples of some scene files, check the `/examples` directory. In general, all directions are described as a 3D vector, while all colors and lights are described as an RGB value.
 2. Call the main application with the `txt` file as the input.
 
 ## Beta
